@@ -1,0 +1,2 @@
+# SQL_customer_order_analysis-w3school
+ This project helps the sales manager of Northwind Traders (fictional) analyze customer order history to efficiently assign customer accounts to new sales representatives. It retrieves the number of orders placed by each customer using SQL queries in the W3School Tryit Editor and Database. The project demonstrates SQL aggregation function, such as COUNT(), JOIN, and grouping data with GROUP BY to provide clear insights into customer activity.
