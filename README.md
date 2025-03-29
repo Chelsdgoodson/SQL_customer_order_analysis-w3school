@@ -1,3 +1,5 @@
+##SQL_customer_order_analysis-w3school
+
 ##Business Problem
 The sales manager needs to streamline the process of assigning customer accounts to new sales representatives. To do so, it is essential to understand the number of orders placed by each customer. By determining this metric, the manager can allocate accounts more effectively, ensuring that high-value or high-activity customers are paired with experienced sales reps, while newer or lower-activity accounts are assigned to less experienced ones. This will optimize the overall sales team's performance and improve customer management.
 
